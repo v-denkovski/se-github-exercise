@@ -13,5 +13,5 @@ for i in image:
         if (j == 0):
             print(' ', end='')
         else:
-            print('$', end='')
+            print('%', end='')
     print(' ')
